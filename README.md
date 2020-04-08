@@ -11,46 +11,46 @@ webRequestBlocking
 
 # Features
 
-# Supported methods
+* Supported methods
 
-GET
-POST
+- GET
+- POST
 
-# SQLi
+* SQLi
 
-Dump all database names (MySQL, PostgreSQL)
-Dump tables from database (MySQL, PostgreSQL)
-Dump columns from database (MySQL, PostgreSQL)
-Union select statement (MySQL, PostgreSQL)
-Error-based injection statement (MySQL, PostgreSQL)
-Space to Inline comment
+- Dump all database names (MySQL, PostgreSQL)
+- Dump tables from database (MySQL, PostgreSQL)
+- Dump columns from database (MySQL, PostgreSQL)
+- Union select statement (MySQL, PostgreSQL)
+- Error-based injection statement (MySQL, PostgreSQL)
+- Space to Inline comment
 
-# XSS
+* XSS
 
-Html encode/decode
-String.fromCharCode encode/decode
+- Html encode/decode
+- String.fromCharCode encode/decode
 
-# LFI
+* LFI
 
-PHP wrapper - Base64
+- PHP wrapper - Base64
 
-# SSTI
+* SSTI
 
-Flask RCE (Reference)
+- Flask RCE (Reference)
 
-# Encoding
+* Encoding
 
-URL encode/decode
-Base64 encode/decode
-Hexadecimal encode/decode
-Unicode encode/decode
+- URL encode/decode
+- Base64 encode/decode
+- Hexadecimal encode/decode
+- Unicode encode/decode
 
-# Hashing
+* Hashing
 
-MD5
-SHA1
-SHA256
-SHA512
+- MD5
+- SHA1
+- SHA256
+- SHA512
 
 
-## Website: vortex-team.org
+# Website: vortex-team.org
