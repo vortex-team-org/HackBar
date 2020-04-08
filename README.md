@@ -1,56 +1,53 @@
 # HackBar
 
-Simple security audit / Penetration test tool
-This toolbar will help you in testing sql injections, XSS holes and site security.
+HackBar for Chrome.
 
-# Requested Permissions
+Available on [Chrome Web Store](https://chrome.google.com/webstore/detail/hackbar/ginpbkfigcoaokgflihfhhmglmbchinc).
 
-tabs
-webRequest
-webRequestBlocking
+## Requested Permissions
 
-# Features
+* tabs
+* webRequest
+* webRequestBlocking
 
-~ Supported methods
+## Features
 
-- GET
-- POST
+* Supported methods
+  * GET
+  * POST
+
+* Auto Test
+  * Common paths (Wordlist from [dirsearch](https://github.com/maurosoria/dirsearch/blob/master/db/dicc.txt) included)
 
 * SQLi
-
-- Dump all database names (MySQL, PostgreSQL)
-- Dump tables from database (MySQL, PostgreSQL)
-- Dump columns from database (MySQL, PostgreSQL)
-- Union select statement (MySQL, PostgreSQL)
-- Error-based injection statement (MySQL, PostgreSQL)
-- Space to Inline comment
+  * Dump all database names (MySQL, PostgreSQL)
+  * Dump tables from database (MySQL, PostgreSQL)
+  * Dump columns from database (MySQL, PostgreSQL)
+  * Union select statement (MySQL, PostgreSQL)
+  * Error-based injection statement (MySQL, PostgreSQL)
+  * Space to Inline comment
 
 * XSS
-
-- Html encode/decode
-- String.fromCharCode encode/decode
+  * Html encode/decode
+  * String.fromCharCode encode/decode
 
 * LFI
-
-- PHP wrapper - Base64
+  * PHP wrapper - Base64
 
 * SSTI
-
-- Flask RCE (Reference)
+  * Flask RCE
 
 * Encoding
-
-- URL encode/decode
-- Base64 encode/decode
-- Hexadecimal encode/decode
-- Unicode encode/decode
+  * URL encode/decode
+  * Base64 encode/decode
+  * Hexadecimal encode/decode
+  * Unicode encode/decode
 
 * Hashing
-
-- MD5
-- SHA1
-- SHA256
-- SHA512
+  * MD5
+  * SHA1
+  * SHA256
+  * SHA512
 
 
 # Website: vortex-team.org
