@@ -11,7 +11,7 @@ webRequestBlocking
 
 # Features
 
-*- Supported methods
+~ Supported methods
 
 - GET
 - POST
