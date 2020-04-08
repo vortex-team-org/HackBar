@@ -1,4 +1,6 @@
 # HackBar
+Simple security audit / Penetration test tool
+This toolbar will help you in testing sql injections, XSS holes and site security.
 
 HackBar for Chrome.
 
@@ -49,5 +51,5 @@ Available on [Chrome Web Store](https://chrome.google.com/webstore/detail/hackba
   * SHA256
   * SHA512
 
-
-# Website: vortex-team.org
+# Website: [vortex-team.org](https://vortex-team.org).
+# Telegram: [vortex_team_org](https://t.me/vortex_team_org).
